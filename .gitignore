@@ -1,0 +1,9 @@
+# development stuff
+/target/
+.*
+!.gitignore
+!.derived
+
+# terraform state stuff
+.terraform
+*.tfstate*
